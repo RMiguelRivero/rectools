@@ -1,0 +1,15 @@
+.DS_Store
+.idea/
+build/
+coverage/
+dist/
+lib/
+node_modules/
+.idea/
+.vscode/
+
+*.log
+
+*.code-workspace
+package-lock.sha1
+package-lock.json
